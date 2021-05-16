@@ -1,2 +1,2 @@
-import {content} from './app/app';
-alert(content.id)
+import {content} from './app/app.js';
+alert("salam")

@@ -1,1 +1,4 @@
-export const content=document.getElementById("somediv");
+ const content=document.getElementById("somediv");
+export{
+    content
+}
