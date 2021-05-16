@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=document.getElementById("somediv");console.log(o),console.log(o)})();
