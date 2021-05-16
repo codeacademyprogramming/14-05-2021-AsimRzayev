@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.getElementById("somediv");alert(e.id)})();
